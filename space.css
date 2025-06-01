@@ -1,0 +1,47 @@
+  body {
+    margin:0px;
+    color:#4E465A;
+    text-align:center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:900;
+    font-style:normal;
+    text-shadow: 1px 1px 30px  #342E3E;
+    
+
+}
+
+.btn {
+    background:white; 
+    color:#2A2530;
+    text-shadow:-1px -1px #342E3E;
+    border:none;
+    font-family:"Orbitron", sans-serif;
+    font-weight:bolder; 
+    padding:5px 10px 5px 10px;
+    cursor:pointer;
+}
+
+.exp {
+    border-bottom:3px solid #6E6262;
+}
+
+#logo {
+    width:50px;
+}
+
+#hero {
+    background-image: url("assets/universe.jpg");
+    background-size:cover;
+    padding:10px 0px 40px 0px;
+    min-height:100vh;
+
+}
+
+.cap {
+    padding:25px 13px;
+    background-color:white ;
+    border:5px solid #2A2530;
+    margin:0px;
+
+}
